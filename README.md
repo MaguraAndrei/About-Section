@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Sql, Tableau, Pyton
 - 💞️ I’m looking to collaborate on Data Analysis projects
-- 📫 How to reach me DM
+- 📫 How to reach me: DM
 - 😄 Pronouns: Hope is obvious
 - ⚡ Fun fact: I'm an accountant
 
