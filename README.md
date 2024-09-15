@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaguraAndrei
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Sql, Tableau, Pyton
+- 🌱 I’m currently learning Pyton, Sql, Tableau, PowerBi
 - 💞️ I’m looking to collaborate on Data Analysis projects
 - 📫 How to reach me: DM
 - 😄 Pronouns: Hope is obvious
